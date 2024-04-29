@@ -10,5 +10,8 @@ def mostrarLinea(cantGuiones):
 def suma(a,b):
     return a+b
 
+def promedio(n1,n2,n3):
+    return (n1+n2+n3)/3
+
 
 
